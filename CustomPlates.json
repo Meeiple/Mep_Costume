@@ -1,12 +1,14 @@
 {
     "nameplates": [
         {
-            "name": "私じゃない_Meiple",
-            "resource": "私じゃない_Meiple.png"
+            "author": "Meiple",
+            "name": "私じゃない",
+            "resource": "ImNot.png"
         },
         {
-            "name": "蜜印_Meiple",
-            "resource": "蜜印_Meiple.png"
+            "author": "Meiple",
+            "name": "蜜印",
+            "resource": "SirusiM.png"
         }
     ]
 }
