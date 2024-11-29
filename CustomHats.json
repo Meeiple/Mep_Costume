@@ -9,7 +9,16 @@
             "backresource": "Cardboard_Back.png",
             "climbresource": "Cardboard_Climb.png",
             "adaptive": true
-            
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name": "宇宙の角",
+            "condition": "",
+            "resource": "AlienHorn.png",
+            "flipresource": "AlienHorn_Flip.png",
+            "climbresource": "AlienHorn_Climb.png",
+            "adaptive": true
         }
     ]
 }
