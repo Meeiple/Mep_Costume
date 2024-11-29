@@ -1,6 +1,11 @@
 {
     "Visors":
     [
-
+        {
+            "name": "ヘイロー",
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "resource": "Halo.png"
+        }
     ]
 }
