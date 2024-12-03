@@ -19,6 +19,15 @@
             "flipresource": "AlienHorn_Flip.png",
             "climbresource": "AlienHorn_Climb.png",
             "adaptive": true
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name": "たぶん殺られる",
+            "condition": "",
+            "resource": "Killer.png",
+            "flipresource": "Killer_Flip.png",
+            "adaptive": true
         }
     ]
 }
