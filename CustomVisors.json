@@ -23,8 +23,7 @@
             "name": "なんか硬そうな盾",
             "author": "めーぷる",
             "package": "Mep_cos",
-            "resource": "Poliguard.png",
-            "adaptive": true
+            "resource": "Policeguard.png"
         }
     ]
 }
