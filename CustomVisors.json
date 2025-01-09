@@ -18,13 +18,6 @@
             "author": "めーぷる",
             "package": "Mep_cos",
             "resource": "Ballistic.png"
-        },
-        {
-            "name": "なんか硬そうな盾",
-            "author": "めーぷる",
-            "package": "Mep_cos",
-            "resource": "Policeguard.png",
-            "adaptive": true
         }
     ]
 }
