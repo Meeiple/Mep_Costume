@@ -18,14 +18,6 @@
             "resource": "Killer.png",
             "flipresource": "Killer_Flip.png",
             "adaptive": true
-        },
-        {
-            "author": "めーぷる",
-            "package": "Mep_cos",
-            "name": "めっちゃながい",
-            "condition": "",
-            "resource": "Looonger.png",
-            "adaptive": true
         }
     ]
 }
