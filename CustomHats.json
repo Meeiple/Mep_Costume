@@ -13,20 +13,18 @@
         {
             "author": "めーぷる",
             "package": "Mep_cos",
-            "name": "宇宙の角",
+            "name": "たぶん殺られる",
             "condition": "",
-            "resource": "AlienHorn.png",
-            "flipresource": "AlienHorn_Flip.png",
-            "climbresource": "AlienHorn_Climb.png",
+            "resource": "Killer.png",
+            "flipresource": "Killer_Flip.png",
             "adaptive": true
         },
         {
             "author": "めーぷる",
             "package": "Mep_cos",
-            "name": "たぶん殺られる",
+            "name": "めっちゃながい",
             "condition": "",
-            "resource": "Killer.png",
-            "flipresource": "Killer_Flip.png",
+            "resource": "Looonger.png",
             "adaptive": true
         }
     ]
