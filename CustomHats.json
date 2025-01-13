@@ -18,6 +18,21 @@
             "resource": "Killer.png",
             "flipresource": "Killer_Flip.png",
             "adaptive": true
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name": "たぶん殺られる",
+            "condition": "",
+            "resource": "testfront.png",
+            "flipresource": "fliptestfront.png",
+            "backresource": "testback.png",
+            "backflipresource": "fliptestback.png",
+
+            "moveresource": "movetestfront.png",
+            "moveflipresource": "movefliptestfront.png",
+            "backmoveresource": "movetestback.png",
+            "backmoveflipresource": "movefliptestback.png"
         }
     ]
 }
