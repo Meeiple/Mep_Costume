@@ -18,6 +18,16 @@
             "resource": "Killer.png",
             "flipresource": "Killer_Flip.png",
             "adaptive": true
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name": "ジェットパック",
+            "condition": "None",
+            "resource": "Blank.png",
+            "backresource": "Jetpack.png",
+            "backmoveresource": "Jetpackmove.png",
+            "climbresource": "Jetpackclimb.png"
         }
     ]
 }
