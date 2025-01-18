@@ -24,10 +24,10 @@
             "package": "Mep_cos",
             "name": "ジェットパック",
             "condition": "None",
-            "resource": "Blank.png",
-            "backresource": "Jetpack.png",
-            "backmoveresource": "Jetpackmove.png",
-            "climbresource": "Jetpackclimb.png"
+            "resource": "Jetpack.png",
+            "moveresource": "Jetpackmove.png",
+            "climbresource": "Jetpackclimb.png",
+            "behind": true
         },
         {
             "author": "めーぷる",
@@ -36,7 +36,6 @@
             "condition": "None",
             "resource": "FlowerHat.png",
             "climbresource": "FlowerHat_Climb.png",
-            "behind": true,
             "bounce": true
         }
     ]
