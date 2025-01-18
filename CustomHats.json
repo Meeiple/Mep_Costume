@@ -28,6 +28,14 @@
             "backresource": "Jetpack.png",
             "backmoveresource": "Jetpackmove.png",
             "climbresource": "Jetpackclimb.png"
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name": "ふらわ～はっと",
+            "condition": "None",
+            "resource": "FlowerHat.png",
+            "climbresource": "FlowerHat_Climb.png"
         }
     ]
 }
