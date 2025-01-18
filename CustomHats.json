@@ -35,7 +35,9 @@
             "name": "ふらわ～はっと",
             "condition": "None",
             "resource": "FlowerHat.png",
-            "climbresource": "FlowerHat_Climb.png"
+            "climbresource": "FlowerHat_Climb.png",
+            "behind": true,
+            "bounce": true
         }
     ]
 }
