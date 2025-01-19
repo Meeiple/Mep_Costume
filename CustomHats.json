@@ -43,8 +43,7 @@
             "package": "Mep_cos",
             "name": "刺されそう",
             "condition": "None",
-            "resource": "Arrowlance.png",
-            "bounce": true
+            "resource": "Arrowlance.png"
         }
     ]
 }
