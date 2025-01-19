@@ -37,6 +37,14 @@
             "resource": "FlowerHat.png",
             "climbresource": "FlowerHat_Climb.png",
             "bounce": true
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name": "刺されそう",
+            "condition": "None",
+            "resource": "Arrowlance.png",
+            "bounce": true
         }
     ]
 }
