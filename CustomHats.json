@@ -13,7 +13,7 @@
         {
             "author": "めーぷる",
             "package": "Mep_cos",
-            "name": "たぶん殺られる",
+            "name": "キル用",
             "condition": "",
             "resource": "Killer.png",
             "flipresource": "Killer_Flip.png",
@@ -41,7 +41,7 @@
         {
             "author": "めーぷる",
             "package": "Mep_cos",
-            "name": "刺されそう",
+            "name": "刺",
             "condition": "None",
             "resource": "Arrowlance.png",
             "adaptive": true
