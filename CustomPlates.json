@@ -9,6 +9,12 @@
             "author": "Meiple",
             "name": "蜜印",
             "resource": "SirusiM.png"
+        },
+        {
+            "author": "Meiple",
+            "name": "発車",
+            "package": "Develop Package",
+            "resource": "ConductorPlate.png"
         }
     ]
 }

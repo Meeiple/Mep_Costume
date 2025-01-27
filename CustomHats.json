@@ -45,6 +45,13 @@
             "condition": "None",
             "resource": "Arrowlance.png",
             "adaptive": true
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name": "車掌",
+            "condition": "None",
+            "resource": "Conductor.png"
         }
     ]
 }
