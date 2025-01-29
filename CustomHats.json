@@ -7,17 +7,16 @@
             "condition": "None",
             "resource": "CardboardNom.png",
             "backresource": "CardboardNom_Back.png",
-            "climbresource": "CardboardNom_Climb.png",
-            "adaptive": true
+            "climbresource": "CardboardNom_Climb.png"
         },
         {
             "author": "めーぷる",
             "package": "Mep_cos",
             "name":"あったか色つき段ボール",
             "condition": "None",
-            "resource": "CardboardColor.png",
-            "backresource": "CardboardColor_Back.png",
-            "climbresource": "CardboardColor_Climb.png",
+            "resource": "CardboardNom.png",
+            "backresource": "CardboardNom_Back.png",
+            "climbresource": "CardboardNom_Climb.png",
             "adaptive": true
         },
         {

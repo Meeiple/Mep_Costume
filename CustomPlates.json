@@ -2,15 +2,15 @@
     "nameplates": [
         {
             "author": "Meiple",
-            "name": "キルしてきた",
-            "package": "Develop Package",
-            "resource": "ImNot.png"
-        },
-        {
-            "author": "Meiple",
             "name": "発車",
             "package": "Develop Package",
             "resource": "ConductorPlate.png"
+        },
+        {
+            "author": "Meiple",
+            "name": "キルしてきた",
+            "package": "Develop Package",
+            "resource": "ImNot.png"
         }
     ]
 }
