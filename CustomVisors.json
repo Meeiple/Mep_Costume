@@ -30,19 +30,25 @@
             "name": "にっこり",
             "author": "めーぷる",
             "package": "Mep_cos",
-            "resource": "Nikkori.png"
+            "resource": "Nikkori.png",
+            "adaptive": true,
+            "behindHats": true
         },
         {
             "name": "すやすや",
             "author": "めーぷる",
             "package": "Mep_cos",
-            "resource": "SuyaSuya.png"
+            "resource": "SuyaSuya.png",
+            "adaptive": true,
+            "behindHats": true
         },
         {
             "name": "真顔",
             "author": "めーぷる",
             "package": "Mep_cos",
-            "resource": "Magao.png"
+            "resource": "Magao.png",
+            "adaptive": true,
+            "behindHats": true
         }
     ]
 }

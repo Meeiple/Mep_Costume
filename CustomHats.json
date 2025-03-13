@@ -60,7 +60,8 @@
             "package": "Mep_cos",
             "name": "車掌",
             "condition": "None",
-            "resource": "Conductor.png"
+            "resource": "Conductor.png",
+            "climbresource": "ConductorClimb.png"
         },
         {
             "author": "めーぷる",
@@ -69,6 +70,16 @@
             "condition": "None",
             "resource": "Siitake.png",
             "climbresource": "Siitake_Climb.png",
+            "adaptive": true
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name":"しいたけ",
+            "condition": "None",
+            "resource": "Flag.png",
+            "backresource": "Flag_Back.png",
+            "climbresource": "Flag_Climb.png",
             "adaptive": true
         }
     ]

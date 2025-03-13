@@ -11,6 +11,12 @@
             "name": "キルしてきた",
             "package": "Develop Package",
             "resource": "ImNot.png"
+        },
+        {
+            "author": "Meiple",
+            "name": "研究室",
+            "package": "Develop Package",
+            "resource": "Laboratory.png"
         }
     ]
 }
