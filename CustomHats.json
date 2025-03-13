@@ -61,6 +61,15 @@
             "name": "車掌",
             "condition": "None",
             "resource": "Conductor.png"
+        },
+        {
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "name":"しいたけ",
+            "condition": "None",
+            "resource": "Siitake.png",
+            "climbresource": "Siitake_Climb.png",
+            "adaptive": true
         }
     ]
 }

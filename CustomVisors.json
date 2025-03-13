@@ -25,6 +25,24 @@
             "author": "めーぷる",
             "package": "Mep_cos",
             "resource": "Bomb.png"
+        },
+        {
+            "name": "にっこり",
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "resource": "Nikkori.png"
+        },
+        {
+            "name": "すやすや",
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "resource": "SuyaSuya.png"
+        },
+        {
+            "name": "真顔",
+            "author": "めーぷる",
+            "package": "Mep_cos",
+            "resource": "Magao.png"
         }
     ]
 }
